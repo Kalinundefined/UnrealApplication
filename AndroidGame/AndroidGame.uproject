@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{97597E40-486F-7903-C62B-0D983623E182}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "AndroidGame",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
